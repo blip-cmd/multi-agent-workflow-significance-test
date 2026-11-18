@@ -1,0 +1,11 @@
+research,document and publish.
+
+Conduct a statistical test to answer
+is effects of using claude code to start the project and other agents to continue significant.
+
+Null Hypothesis: It's regular, not better
+Alternative: It is significant
+
+We need a method of measure and process then the full experiment steps
+
+Conclude with recommended steps to make Alternative best
